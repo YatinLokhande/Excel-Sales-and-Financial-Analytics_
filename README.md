@@ -11,8 +11,14 @@ AtliQ Hardware, a global supplier of products such as PCs, peripherals, and netw
 **◆ Key Observations:**   Produced in-depth insights illuminating critical aspects of sales operations.
 
 ![photo_1_2024-03-30_22-42-59](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/c717a2b1-aa11-4810-abac-a2a7dcae2a59)
+
+
 ![photo_2_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1ed7c52d-39bd-4a8a-96f3-2ec615d9e0b9)
+
+
 ![photo_1_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/b1779b0a-ce57-4f59-b05b-a8d170908192)
+
+
 ![photo_3_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/0cf84b27-578b-4c98-837f-06d540d6a187)
 ![photo_4_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/938cd74e-7fac-4316-9354-e4e990191f10)
 ![photo_5_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/3a17e25b-33a1-4e1d-b665-2df395316540)
