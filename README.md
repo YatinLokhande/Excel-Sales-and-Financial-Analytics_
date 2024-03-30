@@ -36,6 +36,19 @@ AtliQ Hardware, a global supplier of products such as PCs, peripherals, and netw
 ![photo_8_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/c872024f-b988-45c9-81cf-07c23994bbf3)
 ![photo_6_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/96e1533b-8491-4de5-b8ac-0a61fe70e033)
 
+**Technical Skills**
+✔️ Proficiency in ETL methodology (Extract, Transform, Load).
+✔️ Skills to generate a date table using Power Query.
+✔️ Ability to derive fiscal months and quarters.
+✔️ Establishing data model relationships with Power Pivot.
+✔️ Proficiency in incorporating supplementary data into an existing data model.
+✔️ Utilizing DAX to create calculated columns.
+
+**Soft Skills**
+✔️ Refined understanding of Sales & Finance Reports.
+✔️ Designing user-centric reports with empathy in mind.
+✔️ Optimization of report generation through meticulous fine-tuning.
+✔️ Developing a systematic approach to devising a report-building plan.
 
 # Tools/Used:-
 
