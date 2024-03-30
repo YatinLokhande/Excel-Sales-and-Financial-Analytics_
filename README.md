@@ -11,50 +11,24 @@ AtliQ Hardware, a global supplier of products such as PCs, peripherals, and netw
 **◆ Key Observations:**   Produced in-depth insights illuminating critical aspects of sales operations.
 
 ![photo_1_2024-03-30_22-42-59](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/c717a2b1-aa11-4810-abac-a2a7dcae2a59)
-
-
 ![photo_2_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/1ed7c52d-39bd-4a8a-96f3-2ec615d9e0b9)
-
-
 ![photo_1_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/b1779b0a-ce57-4f59-b05b-a8d170908192)
-
-
 ![photo_3_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/0cf84b27-578b-4c98-837f-06d540d6a187)
-
-
 ![photo_4_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/938cd74e-7fac-4316-9354-e4e990191f10)
-
-
 ![photo_5_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/3a17e25b-33a1-4e1d-b665-2df395316540)
-
-
 ![photo_7_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/582c4c07-d3da-4e66-b91e-a93cd7720f51)
-
-
 ![photo_11_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/8b7b71ca-3b2e-411c-8bd8-84207e0dc8a0)
-
-
 ![photo_12_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/993d39aa-ab60-4220-b123-f98a517c6be5)
-
-
 ![photo_9_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/038c7699-e063-487b-b50c-6bc38c182541)
-
 
 # Finance Analysis
 **◆ Metric Development:** Created and implemented vital financial metrics, including Net Sales, COGS, Gross Margin, and GM %, to facilitate the creation of the P&L statement.
 
 **◆ Decision-Making Impact:** These metrics play a crucial role in producing valuable insights, enabling informed and data-driven decision-making.
 
-
- 
 ![photo_10_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/8e67e71a-0788-41d2-bcfd-6d73c1ea9d65)
-
-
 ![photo_8_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/c872024f-b988-45c9-81cf-07c23994bbf3)
-
-
 ![photo_6_2024-03-30_23-19-52](https://github.com/YatinLokhande/AtliQ-Excel-Sales-Analysis/assets/159231905/96e1533b-8491-4de5-b8ac-0a61fe70e033)
-
 
 
 # Tools/Used:-
